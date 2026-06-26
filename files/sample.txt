@@ -1,0 +1,2 @@
+This is a sample sandboxed file for AgentDesk's read_file tool to demonstrate on.
+You can replace this with your own notes, resumes, or text-based reference docs.
